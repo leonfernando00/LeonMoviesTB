@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6C439941-4B78-4307-B621-4ACBF511DF4A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE8FD678-D326-4598-BEF3-D6595C318F28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeonMoviesTB/Modules/MovieDetails/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "setupColor(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE8FD678-D326-4598-BEF3-D6595C318F28 - be7c77a76d6a55cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeonMoviesTB.MovieDetailsViewController.setupColor(with: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "LeonMoviesTB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leon/Documents/iOS/Personal/iOS%20Projects/LeonMoviesTB/LeonMoviesTB/Modules/MovieDetails/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "AE8FD678-D326-4598-BEF3-D6595C318F28 - 76c42f25a2b8ea87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in LeonMoviesTB.MovieDetailsViewController.setupColor(with: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "LeonMoviesTB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leon/Documents/iOS/Personal/iOS%20Projects/LeonMoviesTB/LeonMoviesTB/Modules/MovieDetails/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B3C2EFA-26BF-4C5C-928E-BAB4D3A6BB57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeonMoviesTB/Modules/Movies/Controller/MoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAB62ED0-BD6A-437E-B110-36BD278E3635"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeonMoviesTB/Modules/Movies/ViewModel/MoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "syncMovies(categoryType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAB62ED0-BD6A-437E-B110-36BD278E3635 - f91fe69e1a8f525b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeonMoviesTB.MoviesViewModel.syncMovies(categoryType: LeonMoviesTB.CategoryType) -&gt; ()"
+                  moduleName = "LeonMoviesTB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leon/Documents/iOS/Personal/iOS%20Projects/LeonMoviesTB/LeonMoviesTB/Modules/Movies/ViewModel/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "EAB62ED0-BD6A-437E-B110-36BD278E3635 - 7ec1881049824d6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;LeonMoviesTB.MovieResults&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LeonMoviesTB.MoviesViewModel.syncMovies(categoryType: LeonMoviesTB.CategoryType) -&gt; ()"
+                  moduleName = "LeonMoviesTB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leon/Documents/iOS/Personal/iOS%20Projects/LeonMoviesTB/LeonMoviesTB/Modules/Movies/ViewModel/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "280C80EC-70B5-4FBE-A66D-E5DFC96F105A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeonMoviesTB/Foundation/Services/MoviesServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "syncMovies(categoryPath:numberOfPage:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D320B5B1-376B-460D-8352-E088224F8932"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeonMoviesTB/Foundation/Services/MoviesServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "syncMovies(categoryPath:numberOfPage:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A6BEFB6-F709-4DDF-AB01-81140A4388FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeonMoviesTB/Foundation/Services/MoviesServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "syncMovies(categoryPath:numberOfPage:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

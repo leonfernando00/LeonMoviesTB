@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  LeonMoviesTB
+
+  Created by Fernando León on 20/1/21.
+  Copyright © 2021 Fernando León. All rights reserved.
+*/
+
+// Common
+"leonMovies.common.ok" = "OK";
+"leonMovies.common.errorTitle" = "Error";
+"leonMovies.common.errorMessage" = "An error has occurred";
+
+// Movies
+"leonMovies.movies.categoriesTitle" = "Categories";
+"leonMovies.movies.popularTitle" = "Popular";
+"leonMovies.movies.topRatedTitle" = "Top rated";
+"leonMovies.movies.upcomingTitle" = "Upcoming";
+"leonMovies.movies.cancelTitle" = "Cancel";
+"leonMovies.movies.changeCategoryTitle" = "Other categories";
+"leonMovies.movies.changeCategoryMessage" = "Select a category";
+
+// MovieDetail
+"leonMovies.movieDetail.playVideo" = "Play video";
+"leonMovies.movieDetail.voteCount" = "Vote count";
+"leonMovies.movieDetail.votes" = "votes";
+"leonMovies.movieDetail.releaseDate" = "Release date";
+"leonMovies.movieDetail.defaultDate" = "No date";
+"leonMovies.movieDetail.overview" = "Overview";
+"leonMovies.movieDetail.defaultOverview" = "No overview";
+"leonMovies.movieDetail.movieWithoutIdMessage" = "Sorry, this movie contains an internal error.";
+"leonMovies.movieDetail.movieWithoutVideoMessage" = "No videos found for this movie.";
+
+// Video
+"leonMovies.video.close" = "Close";

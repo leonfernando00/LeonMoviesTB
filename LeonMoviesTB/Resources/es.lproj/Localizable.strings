@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  LeonMoviesTB
+
+  Created by Fernando León on 20/1/21.
+  Copyright © 2021 Fernando León. All rights reserved.
+*/
+
+// Common
+"leonMovies.common.ok" = "OK";
+"leonMovies.common.errorTitle" = "Error";
+"leonMovies.common.errorMessage" = "Ha ocurrido un error";
+
+// Movies
+"leonMovies.movies.categoriesTitle" = "Categorías";
+"leonMovies.movies.popularTitle" = "Populares";
+"leonMovies.movies.topRatedTitle" = "Mejor valoradas";
+"leonMovies.movies.upcomingTitle" = "Próximamente";
+"leonMovies.movies.cancelTitle" = "Cancelar";
+"leonMovies.movies.changeCategoryTitle" = "Otras categorías";
+"leonMovies.movies.changeCategoryMessage" = "Selecciona una categoría";
+
+// MovieDetail
+"leonMovies.movieDetail.playVideo" = "Ver video";
+"leonMovies.movieDetail.voteCount" = "Conteo de votos";
+"leonMovies.movieDetail.votes" = "votos";
+"leonMovies.movieDetail.releaseDate" = "Fecha de lanzamiento";
+"leonMovies.movieDetail.defaultDate" = "Sin fecha";
+"leonMovies.movieDetail.overview" = "Sinopsis";
+"leonMovies.movieDetail.defaultOverview" = "Sin sinopsis";
+"leonMovies.movieDetail.movieWithoutIdMessage" = "Lo sentimos, esta película contiene un error interno.";
+"leonMovies.movieDetail.movieWithoutVideoMessage" = "No se han encontrado vídeos para esta película";
+
+// Video
+"leonMovies.video.close" = "Cerrar";

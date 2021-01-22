@@ -1,0 +1,6 @@
+framework module Pods_LeonMoviesTB_LeonMoviesTBUITests {
+  umbrella header "Pods-LeonMoviesTB-LeonMoviesTBUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
